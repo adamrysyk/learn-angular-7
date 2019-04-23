@@ -9,3 +9,4 @@ Steps to run the app after cloning:
 1) cd into the app directory
 2) if you don't have the angular-cli run npm install -g @angular/cli
 3) from within the app directory run ng serve
+4) navigate to http://localhost:4200/
